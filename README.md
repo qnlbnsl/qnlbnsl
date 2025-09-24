@@ -2,8 +2,9 @@
   <h1>Hi there! I'm Kunal Bansal 👋</h1>
   <h3>System Engineer & Software Developer | AI/ML Enthusiast | Tech Explorer</h3>
 </div>
-
-> "The only way to do great work is to love what you do." – Steve Jobs
+<div align="center">
+<q> The only way to do great work is to love what you do.</q> – Steve Jobs
+</div>
 
 ### 🚀 About Me
 
